@@ -1,0 +1,8 @@
+# This file provides instructions for packaging.
+
+`Module-Notify`
+	perl_version_from m`Module::Notify`;
+	version_from      m`Module::Notify`;
+	readme_from       m`Module::Notify` ;
+	.
+
