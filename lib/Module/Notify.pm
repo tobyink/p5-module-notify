@@ -7,7 +7,7 @@ no warnings qw( void once uninitialized numeric );
 
 BEGIN {
 	$Module::Notify::AUTHORITY = 'cpan:TOBYINK';
-	$Module::Notify::VERSION   = '0.001';
+	$Module::Notify::VERSION   = '0.002';
 }
 
 use Carp qw(croak);
